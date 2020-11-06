@@ -1,0 +1,45 @@
+body{background: skyblue;} 
+
+
+h1 {color: maroon; 
+    font-family: impact;
+    text-align: center; 
+    font-size: 100px;
+
+       } 
+
+
+h2 {
+	color: maroon;
+	font-family: copperplate;
+	text-align: center;
+	border: 3px solid red;
+	border-width: 10px;
+	border-radius: 50px;
+}
+
+.navigation a{
+	background-color: steelblue;
+}
+
+
+#summary {
+	width: 500px;
+	text-transform: bold;
+	
+}
+
+.number {
+	font-family: Ariel, sans-serif;
+	text-align: middle; 
+	font-weight: 300; 
+	border: 6px dotted red;
+	border-radius: 10px;
+
+
+}
+
+#tips {
+	text-align: center;
+
+}
