@@ -1,13 +1,75 @@
 
 
 .view {
-	font-weight: 50%;
-	font-size: 400% 
-	color: darkgrey;
 	text-align: center;
+	text-transform: uppercase;
 
 } 
 
 .five {
+	text-align: center;
+} 
+
+.class {
+	text-align: center;
+}
+
+.and {
+	text-align: center;
+}
+
+.the {
+	text-align: center;
+}
+
+.you {
+	text-align: center;
+	text-transform: uppercase;
+} 
+
+.they {
+	text-align: center;
+}
+
+.or {
+	text-align: center;
+}
+
+.down {
+	text-align: center;
+}
+
+.days {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.ideas {
+	text-align: center;
+}
+
+.will {
+	text-align: center;
+}
+
+.hormones {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.them {
+	text-align: center;
+}
+
+.accept {
+	text-align: center;
+}
+
+.workers {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.working {
 	text-align: center;
 }

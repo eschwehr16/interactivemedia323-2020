@@ -1,0 +1,21 @@
+
+
+.five {
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin-left: 500px;
+	margin-top: 50px;
+	font-size: 300%;
+	z-index: 1%;
+	text-overflow: ellipsis;
+} 
+
+
+.ghost {
+	font-size: 550px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin-left: 3px;
+	margin-top: -200px;
+	opacity: 30%;
+	z-index: -1%;
+	
+}

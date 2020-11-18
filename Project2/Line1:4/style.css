@@ -1,5 +1,9 @@
 
 
+.paragraph {
+	font-weight: bold;
+}
+
 .books {
 	text-align: right;
 	margin-right: 900px;

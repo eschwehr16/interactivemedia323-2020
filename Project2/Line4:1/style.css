@@ -1,0 +1,49 @@
+
+
+.ghost {
+	margin-top: 250px;
+	margin-left: 70px;
+	letter-spacing: 0px;
+	font-size: 80%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	opacity: 70%;
+
+}
+
+.panels {
+	margin-top: -210px;
+	margin-left: 650px;
+	letter-spacing: 12px;
+	font-size: 110%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	transform: rotate(-12deg);
+
+}
+
+.halls {
+	margin-top: 165px;
+	margin-left: 800px;
+	letter-spacing: 12px;
+	font-size: 110%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	transform: rotate(1deg);
+}
+
+.walls {
+	margin-top: 50px;
+	margin-left: 800px;
+	letter-spacing: 12px;
+	font-size: 110%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	transform: rotate(4deg);
+}
+
+
+.fixtures {
+	margin-top: 50px;
+	margin-left: 800px;
+	letter-spacing: 15px;
+	font-size: 110%;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	transform: rotate(5deg);
+}

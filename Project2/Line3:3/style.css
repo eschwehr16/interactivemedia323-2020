@@ -1,3 +1,71 @@
 body {
-	background: grey;
+	background: white;
+} 
+
+.five {
+	border-style: groove;
+	border-color: red;
+	border-width: 6px;
+	margin-left: 250px;
+	margin-right: 1000px;
+}
+
+.your {
+	font-size: 200%;
+	border-bottom: dotted;
+	border-color: blue;
+	border-width: 6px;
+	margin-left: 370px;
+	margin-right: 600px;
+	margin-bottom: 200px;
+}
+
+.invisible {
+	font-size: 100%;
+	border-bottom: double;
+	border-color: grey;
+	border-width: 8px;
+	margin-left: 400px;
+	margin-right: 700px;
+	opacity: 40%;
+	margin-bottom: 200px;
+
+} 
+
+.hall {
+    font-size: 150%;
+	border-bottom: solid;
+	border-color: black;
+	border-width: 8px;
+	margin-left: 750px;
+	margin-right: 100px;
+	letter-spacing: 9px;
+	margin-bottom: 90px;
+	opacity: 45%;
+	transform: rotate(-20deg);
+}
+
+.if {
+    font-size: 150%;
+    border-style: groove;
+    border-color: red;
+    border-width: 7px;
+    margin-left: 200px;
+    margin-right: 900px;
+    margin-bottom: 110px;
+    transform: rotate(20deg);
+}
+
+.buildings {
+	font-size: 140%;
+	border-style: dotted;
+
+} 
+
+.seven {
+
+}
+
+.years {
+
 }

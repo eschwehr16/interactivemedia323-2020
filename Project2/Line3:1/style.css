@@ -1,3 +1,127 @@
 body {
-	background: blue;
+	background: lightskyblue;
 }
+
+.one {
+	text-align: center;
+	font-weight: bold;
+	font-size: 265%;
+	letter-spacing: 13px;
+	margin-bottom: -20px;
+} 
+.two {
+	text-align: center;
+	font-weight: bold;
+	font-size: 230%;
+	letter-spacing: 8px;
+	margin-bottom: -14px;
+}
+.three {
+	text-align: center;
+	font-weight: bold;
+	font-size: 175%;
+	letter-spacing: 10px;
+	margin-bottom: -6px;
+} 
+.four {
+	text-align: center;
+	font-weight: bold;
+	font-size: 140%;
+	letter-spacing: 20px;
+	margin-bottom: 0px;
+	
+} 
+.five {
+	text-align: center;
+	font-weight: bold;
+	font-size: 100%;
+	letter-spacing: 18px;
+	margin-bottom: 
+	
+}
+.six {
+	text-align: center;
+	font-weight: bold;
+	font-size: 80%;
+	letter-spacing: 5px;
+	margin-bottom: 5px;
+}
+.seven {
+	text-align: center;
+	font-weight: bold;
+	font-size: 50%;
+	letter-spacing: 5px;
+	margin-bottom: 360px;
+
+}
+.eight {
+	text-align: center;
+	font-weight: bold;
+	font-size: 50%;
+	letter-spacing: 12px;
+  font-stretch: expanded;
+}
+.nine {
+	text-align: center;
+	font-weight: bold;
+	font-size: 80%;
+	letter-spacing: 25px;
+	margin-bottom: 5px;
+}
+.ten {
+	text-align: center;
+	font-weight: bold;
+	font-size: 140%;
+	letter-spacing: 5px;
+	margin-bottom: 5px;
+} 
+.eleven {
+	text-align: center;
+	font-weight: bold;
+	font-size: 80%;
+	letter-spacing: 5px;
+}
+.twelve {
+	text-align: center;
+	text-align: center;
+	font-weight: bold;
+	font-size: 100%;
+	letter-spacing: 18px;
+}
+.thirteen {
+	text-align: center;
+	text-align: center;
+	font-weight: bold;
+	font-size: 140%;
+	letter-spacing: 20px;
+	
+}
+
+.fourteen {
+	text-align: center;
+	text-align: center;
+	font-weight: bold;
+	font-size: 175%;
+	letter-spacing: 10px;
+}
+
+.fifteen {
+	text-align: center;
+}
+
+.sixteen {
+	text-align: center;
+}
+
+.seventeen {
+	text-align: center;
+}
+
+.eighteen {
+	text-align: center;
+}
+
+.nineteen {
+	text-align: center;
+}
+

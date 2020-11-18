@@ -1,3 +1,119 @@
 body {
 	background: gold;
+} 
+
+.five {
+	font-family: Impact, sans-serif; 
+	margin-left: 300px;
+	margin-bottom: 40px;
+	font-size: 500%;
+	letter-spacing: 25px;
+} 
+
+.more {
+	font-family: Impact, sans-serif; 
+	margin-left: 1000px;
+	font-size: 200%;
+	letter-spacing: 25px;
+	margin-bottom: 100px;
+
 }
+
+.books {
+	font-family: Impact, sans-serif; 
+	margin-left: 600px;
+	font-size: 300%;
+	letter-spacing: 25px;
+	margin-bottom: 300px;
+}
+
+
+
+.your {
+	font-family: "Lucida Console", Monaco, monospace; 
+	margin-left: 200px;
+	font-size: 300%;
+	letter-spacing: 25px;
+}
+
+.office {
+	font-family: "Lucida Console", Monaco, monospace; 
+	margin-left: 300px;
+	font-size: 300%;
+	letter-spacing: 25px;
+}
+
+.door {
+	font-family: "Lucida Console", Monaco, monospace; 
+	margin-left: 400px;
+	font-size: 300%;
+	letter-spacing: 25px;
+}
+
+.closes {
+	font-family: "Lucida Console", Monaco, monospace; 
+	margin-left: 500px;
+	font-size: 300%;
+	letter-spacing: 25px;
+}
+
+.behind {
+	font-family: "Lucida Console", Monaco, monospace; 
+	margin-left: 600px;
+	font-size: 300%;
+	letter-spacing: 25px;
+}
+
+.you {
+	font-family: "Lucida Console", Monaco, monospace; 
+	margin-left: 700px;
+	font-size: 300%;
+	letter-spacing: 25px;
+	margin-bottom: 300px;
+}
+
+
+.from {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin-left: 1050px;
+	font-size: 200%;
+	letter-spacing: 15px;
+}
+
+.the {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin-left: 1050px;
+	font-size: 200%;
+	letter-spacing: 15px;
+} 
+
+.hall {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin-left: 1050px;
+	font-size: 200%;
+	letter-spacing: 15px;
+}
+
+.point {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin-left: 1050px;
+	font-size: 200%;
+	letter-spacing: 15px;
+}
+
+.of {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin-left: 1050px;
+	font-size: 200%;
+	letter-spacing: 15px;
+}
+
+.view {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
+	margin-left: 1050px;
+	font-size: 200%;
+	letter-spacing: 15px;
+}
+
+
+
