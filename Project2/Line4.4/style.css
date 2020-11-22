@@ -1,0 +1,112 @@
+
+
+.five {
+text-decoration-line: underline;
+  text-decoration-style: wavy;
+  margin-left: 70px; 
+  font-style: oblique; 
+} 
+
+.door {
+	text-decoration-line: underline;
+  text-decoration-style: double;
+  margin-left: 375px;
+  margin-top: -33px;
+  font-style: oblique;
+
+} 
+
+
+.invisible {
+	text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+   transform: rotate(30deg);
+   margin-left: 690px;
+  margin-top: 180px;
+  font-style: oblique;
+} 
+
+.from {
+	text-decoration-line: underline;
+  text-decoration-style: wavy; 
+  font-style: oblique;
+  margin-left: 1005px;
+  margin-top: -50px;
+} 
+
+.point {
+	text-decoration-line: underline;
+  text-decoration-style: double;
+  font-style: oblique;
+  margin-left: 70px; 
+  margin-top: 20px;
+}
+
+.you {
+	text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  font-style: oblique;
+  margin-left: 240px;
+  margin-top: -33px;
+
+}
+
+.seven {
+	text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+   transform: rotate(30deg);
+   margin-left: 520px;
+  margin-top: 210px;
+  font-style: oblique;
+}
+
+.know {
+	text-decoration-line: underline;
+  text-decoration-style: double;
+  font-style: oblique;
+  margin-left: 870px;
+  margin-top: -80px;
+}
+
+.and {
+	text-decoration-line: underline;
+  text-decoration-style: wavy; 
+  font-style: oblique;
+  margin-left: 1090px;
+  margin-top: -35px;
+
+}
+
+.some {
+	text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  font-style: oblique;
+  margin-left: 70px; 
+  margin-top: 20px;
+}
+
+.down {
+	text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  transform: rotate(30deg);
+  font-style: oblique;
+  margin-left: 365px;
+  margin-top: 243px; 
+}
+
+.two {
+	text-decoration-line: underline;
+  text-decoration-style: double;
+  font-style: oblique;
+  margin-left: 770px;
+  margin-top: -95px;
+}
+
+
+
+
+
+
+
+
+
