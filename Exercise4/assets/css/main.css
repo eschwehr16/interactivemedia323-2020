@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+} 
+
+#rectangle {
+      width: 110px;
+      height: 120px;
+      background: grey;
+      position: absolute;
+      left: 200px;
+      top: 390px;
+    }
+
+
+
+
