@@ -1,3 +1,72 @@
 body {
-	background: gold;
+	background: white;
+} 
+
+
+.door {
+	position: absolute;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 90px;
+	font-variant: small-caps;
+	top: 230px;
+	left: 110px;
+	opacity: 60%;
+
+} 
+
+.closes {
+	position: absolute;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 90px;
+	font-variant: small-caps;
+	top: 330px;
+	left: 240px;
+	opacity: 60%;
+
+} 
+
+.behind {
+	position: absolute;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 90px;
+	font-variant: small-caps;
+	top: 390px;
+	left: 240px;
+	opacity: 60%;
+
 }
+
+.moment {
+	position: absolute;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 90px;
+	font-variant: small-caps;
+	top: 330px;
+	left: 700px;
+	opacity: 60%;
+}
+
+.turn {
+	position: absolute;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 90px;
+	font-variant: small-caps;
+	top: 400px;
+	left: 700px;
+	opacity: 60%;
+
+}
+
+.invisible {
+	position: absolute;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 90px;
+	font-variant: small-caps;
+	top: 550px;
+	left: 700px;
+	opacity: 100%;
+
+} 
+
+
+

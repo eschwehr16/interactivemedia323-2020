@@ -102,7 +102,13 @@ text-decoration-line: underline;
   margin-top: -95px;
 }
 
-
+.they {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  font-style: oblique;
+  margin-left: 995px;
+  margin-top: -34px;
+}
 
 
 

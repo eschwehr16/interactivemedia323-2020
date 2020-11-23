@@ -119,19 +119,59 @@
 	font-family: "Courier New", Courier, monospace;
 }
 
-.between
+.between {
+	margin-left: 950px;
+	position: absolute;
+	top: 275px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.mind
+.mind {
+	margin-left: 980px;
+	position: absolute;
+	top: 310px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.and
+.and {
+	margin-left: 980px;
+	position: absolute;
+	top: 340px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.body
+.body {
+	margin-left: 980px;
+	position: absolute;
+	top: 370px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.or
+.or {
+	margin-left: 955px;
+	position: absolute;
+	top: 395px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.will
+.will {
+	margin-left: 936px;
+	position: absolute;
+	top: 420px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.And
+.And {
+	margin-left: 925px;
+	position: absolute;
+	top: 450px;
+	font-family: "Courier New", Courier, monospace;
+}
 
-.fate
+.fate {
+	margin-left: 900px;
+	position: absolute;
+	top: 470px;
+	font-family: "Courier New", Courier, monospace;
+}
 

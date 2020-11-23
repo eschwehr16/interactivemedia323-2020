@@ -1,0 +1,19 @@
+
+body {
+	background: gainsboro;
+	z-index: -1px;
+}
+
+h1 {
+	font-size: 700%;
+	opacity: 10%;
+	font-family: cursive;
+	font-style: italic;
+} 
+
+h2 {
+	font-size: 700%;
+	opacity: 10%;
+	font-family: cursive;
+	color: grey;
+}
