@@ -1,4 +1,285 @@
 body {
-	background-color: lightskyblue;
+	background: gainsboro;
+}
+
+
+#move {
+	margin-left: 60px;
+	top: 60px;
+	z-index: 3px;
+}
+
+
+#left, #right {
+	background: silver;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 85px;
+		}
+		#left { left: 0; }
+		#right { right: 0; } 
+
+
+
+.A {
+	position: absolute;
+	display: inline block;
+	left: 110px;
+	top: 100px;
+	font-size: 200%;
+	font-family: cursive;
 } 
+.B {
+	position: absolute;
+	display: inline-block;
+	left: 170px;
+	top: 150px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.C {
+	position: absolute;
+	display: inline-block;
+	left: 220px;
+	top: 125px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.D {
+	position: absolute;
+	display: inline-block;
+	left: 300px;
+	top: 134px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.E {
+	position: absolute;
+	display: inline-block;
+	left: 400px;
+	top: 150px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+
+
+
+
+.F {
+	position: absolute;
+	display: inline block;
+	left: 108px;
+	top: 300px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.G {
+	position: absolute;
+	display: inline-block;
+	left: 150px;
+	top: 350px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.H {
+	position: absolute;
+	display: inline-block;
+	left: 235px;
+	top: 300px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.I {
+	position: absolute;
+	display: inline-block;
+	left: 300px;
+	top: 350px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.J {
+	position: absolute;
+	display: inline-block;
+	left: 400px;
+	top: 330px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+
+
+
+
+.K {
+	position: absolute;
+	display: inline block;
+	left: 110px;
+	top: 550px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.L {
+	position: absolute;
+	display: inline-block;
+	left: 170px;
+	top: 590px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.M {
+	position: absolute;
+	display: inline-block;
+	left: 220px;
+	top: 510px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.N {
+	position: absolute;
+	display: inline-block;
+	left: 300px;
+	top: 550px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.O {
+	position: absolute;
+	display: inline-block;
+	left: 400px;
+	top: 550px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+
+
+
+
+.P {
+	position: absolute;
+	display: inline block;
+	right: 440px;
+	top: 60px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.Q {
+	position: absolute;
+	display: inline-block;
+	right: 355px;
+	top: 70px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.R {
+	position: absolute;
+	display: inline-block;
+	right: 230px;
+	top: 40px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.S {
+	position: absolute;
+	display: inline-block;
+	right: 300px;
+	top: 34px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.T {
+	position: absolute;
+	display: inline-block;
+	right: 400px;
+	top: 50px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+
+
+
+.U {
+	position: absolute;
+	display: inline block;
+	right: 110px;
+	top: 200px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.V {
+	position: absolute;
+	display: inline-block;
+	right: 170px;
+	top: 350px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.W {
+	position: absolute;
+	display: inline-block;
+	right: 240px;
+	top: 340px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.X {
+	position: absolute;
+	display: inline-block;
+	right: 300px;
+	top: 434px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+.Y {
+	position: absolute;
+	display: inline-block;
+	right: 400px;
+	top: 350px;
+	font-size: 200%;
+	font-family: cursive;
+} 
+
+
+
+
+
+
+
+
+.rectangle {
+	 width: 500px;
+      height: 750px;
+      background: azure;
+      position: absolute;
+      margin-left: 450px;
+      margin-top: -1px;  
+} 
+.first {
+	  width: 90px;
+      height: 750px;
+      background: skyblue;
+      position: absolute;
+      margin-left: 300px;
+      margin-top: -1px;
+      opacity: 60%;
+      z-index: 2px;
+} 
+.second {
+	width: 90px;
+      height: 750px;
+      background: skyblue;
+      position: absolute;
+      margin-left: 100px;
+      margin-top: -1px;
+      opacity: 60%;
+      z-index: 2px;
+}
+
+
+
+
+
+
+
+
 
