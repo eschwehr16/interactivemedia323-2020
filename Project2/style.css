@@ -167,7 +167,7 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 355px;
-	top: 70px;
+	top: 270px;
 	font-size: 200%;
 	font-family: cursive;
 } 
@@ -175,7 +175,7 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 230px;
-	top: 40px;
+	top: 140px;
 	font-size: 200%;
 	font-family: cursive;
 } 
@@ -183,7 +183,7 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 300px;
-	top: 34px;
+	top: 134px;
 	font-size: 200%;
 	font-family: cursive;
 } 
@@ -191,7 +191,7 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 400px;
-	top: 50px;
+	top: 150px;
 	font-size: 200%;
 	font-family: cursive;
 } 
@@ -218,7 +218,7 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 240px;
-	top: 340px;
+	top: 350px;
 	font-size: 200%;
 	font-family: cursive;
 } 
@@ -226,7 +226,7 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 300px;
-	top: 434px;
+	top: 464px;
 	font-size: 200%;
 	font-family: cursive;
 } 
@@ -234,11 +234,38 @@ body {
 	position: absolute;
 	display: inline-block;
 	right: 400px;
-	top: 350px;
+	top: 380px;
 	font-size: 200%;
 	font-family: cursive;
 } 
 
+
+.halls {
+	position: absolute;
+	right: 290px;
+	top: 580px;
+	font-size: 230%;
+	font-family: cursive;
+	font-style: italic;
+} 
+
+.written {
+	position: absolute;
+	right: 200px;
+	top: 650px;
+	font-size: 150%;
+	font-family: cursive;
+	font-style: italic;
+}
+
+.coded {
+	position: absolute;
+	right: 200px;
+	top: 680px;
+	font-size: 150%;
+	font-family: cursive;
+	font-style: italic;
+}
 
 
 
