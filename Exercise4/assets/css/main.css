@@ -6,7 +6,7 @@ body {
 	background: black;
 }
 
-.canvas {
+.canvas1 {
 	width: 900px;
 	height: 556px;
 	margin: 100px auto;
@@ -15,8 +15,7 @@ body {
 } 
 
 
-
-.flashlight-container {
+.object-flashlight {
 	width: 100%;
 	position: fixed;
 }
@@ -54,5 +53,18 @@ body {
       left: 204px;
       top: -200px;
 }
+
+
+.canvas2 {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: tomato;
+	position: relative;
+} 
+
+
+
+
 
 
