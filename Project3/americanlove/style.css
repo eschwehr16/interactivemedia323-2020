@@ -1,3 +1,11 @@
 body {
 	background: firebrick;
+} 
+
+.love {
+	text-align: center;
+	margin-top: 500px;
+	color: gainsboro;
+	font-family: cursive;
+	font-size: 300%;
 }
