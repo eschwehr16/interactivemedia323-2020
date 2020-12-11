@@ -8,18 +8,20 @@ body {
 	font-family: Gill Sans, sans-serif;
 	font-size: 200%;
 	color: gainsboro;
+	letter-spacing: 3px;
 }
 
 .lonley {
-	margin-top: 200px;
+	margin-top: 300px;
 	text-align: center;
 	font-family: Gill Sans, sans-serif;
-	font-size: 200%;
+	font-size: 100%;
 	color: gainsboro;
+	letter-spacing: 8px;
 }
 
 .window {
-	margin-top: 300px;
+	margin-top: 220px;
 	text-align: center;
 	font-family: Gill Sans, sans-serif;
 	font-size: 200%;
@@ -28,4 +30,13 @@ body {
 
 a {
 	color: black;
-}
+} 
+
+#circle {
+	  margin-left: 500px
+	  margin-top: 300;
+      width: 50px;
+      height: 50px;
+      background: gold;
+      border-radius: 50%
+    }

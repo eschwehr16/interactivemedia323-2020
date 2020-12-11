@@ -6,23 +6,27 @@ body {
 	text-align: center;
 	font-family: cursive;
 	font-size: 500%;
-	color: brown;
+	color: black;
+	opacity: 25%;
 }
 
 .didnt {
 	text-align: center;
 	font-family: cursive;
 	font-size: 500%;
-	color: brown;
+	color: black;
+	opacity: 25%;
 } 
 
 .choice {
 	text-align: center;
 	font-family: cursive;
 	font-size: 500%;
-	color: brown;
+	color: black;
+	opacity: 25%;
 } 
 
 a {
-	color: brown;
+	color: black;
+	opacity: 25%;
 }

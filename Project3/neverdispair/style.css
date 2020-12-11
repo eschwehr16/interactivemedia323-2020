@@ -18,4 +18,8 @@ body {
 	font-size: 250%;
 	font-style: italic;
 	opacity: 10%;
+} 
+
+a {
+	font-size: 120%;
 }
