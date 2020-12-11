@@ -12,7 +12,7 @@ body {
 
 }
 
-a {
+.twisted {
 	margin-top: 250px;
 	margin-left: 100px;
 	font-family: Gill Sans, sans-serif;
@@ -28,6 +28,9 @@ a {
 	color: gainsboro;
 }
 
+a {
+	color: silver;
+}
 
 
 
