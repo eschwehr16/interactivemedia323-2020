@@ -1,0 +1,23 @@
+body {
+	background: darkslateblue;
+} 
+
+.home {
+	text-align: right;
+	margin-top: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.room {
+	margin-top: 300px;
+	text-align: right;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+a {
+	color: black;
+}

@@ -1,0 +1,39 @@
+body {
+	background-image: linear-gradient(to right, brown , maroon);
+} 
+
+.no {
+margin-left: 100px; 
+margin-top: 80px;
+font-size: 400%;
+font-family: Oldtown, fantasy;
+color: black;
+}
+
+.one {
+	margin-left: 100px;
+	margin-top: 140px;
+	font-size: 400%;
+	font-family: Oldtown, fantasy;
+	color: black;
+}
+
+.cares {
+	margin-left: 100px;
+	margin-top: 180px;
+	font-size: 400%;
+	font-family: Oldtown, fantasy;
+	color: black;
+} 
+
+.but {
+	margin-left: 1050px;
+	margin-top: 0px;
+	font-size: 150%;
+	font-family: Oldtown, fantasy;
+	color: black;
+}
+
+a {
+	color: black;
+}

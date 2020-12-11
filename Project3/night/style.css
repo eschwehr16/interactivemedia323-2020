@@ -1,0 +1,35 @@
+body {
+	background: darkslateblue;
+} 
+
+.used {
+	text-align: center;
+	margin-top: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.night {
+	text-align: center;
+	margin-top: 150px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.after {
+	text-align: center;
+	margin-top: 200px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.knight {
+	text-align: center;
+	margin-top: 250px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}

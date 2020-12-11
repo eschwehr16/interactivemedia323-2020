@@ -1,0 +1,19 @@
+body {
+	background: darkslateblue;
+}
+
+.close {
+	text-align: right;
+	margin-top: 600px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.air {
+	text-align: right;
+	margin-top: 0px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}

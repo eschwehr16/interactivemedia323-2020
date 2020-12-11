@@ -1,0 +1,37 @@
+body {
+	background: darkslateblue;
+} 
+
+.follow {
+	margin-left: 100px;
+	margin-top: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.fancy {
+	margin-left: 950px;
+	margin-top: 500px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.glided {
+	margin-left: 100px;
+	margin-top: 700px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+	opacity: 20%;
+} 
+
+a {
+	color: gainsboro;
+}
+
+
+
+
+

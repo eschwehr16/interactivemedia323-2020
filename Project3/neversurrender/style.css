@@ -1,0 +1,21 @@
+body {
+	background-image: linear-gradient(to right, maroon, darkslategrey);
+} 
+
+.dispair {
+	margin-left: 140px;
+	margin-top: 130px;
+	font-family: cursive;
+	font-size: 600%;
+	font-style: italic;
+	opacity: 30%;
+}
+
+.surrender {
+	margin-left: 135px;
+	margin-top: 230px;
+	font-family: cursive;
+	font-size: 600%;
+	font-style: italic;
+	opacity: 30%;
+}

@@ -1,0 +1,31 @@
+body {
+	background: darkslateblue;
+} 
+
+.down {
+	text-align: center;
+	margin-top: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.lonley {
+	margin-top: 200px;
+	text-align: center;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.window {
+	margin-top: 300px;
+	text-align: center;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+a {
+	color: black;
+}

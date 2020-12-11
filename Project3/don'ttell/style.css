@@ -1,0 +1,28 @@
+body {
+	background: firebrick;
+} 
+
+.tell {
+	text-align: center;
+	font-family: cursive;
+	font-size: 500%;
+	color: brown;
+}
+
+.didnt {
+	text-align: center;
+	font-family: cursive;
+	font-size: 500%;
+	color: brown;
+} 
+
+.choice {
+	text-align: center;
+	font-family: cursive;
+	font-size: 500%;
+	color: brown;
+} 
+
+a {
+	color: brown;
+}

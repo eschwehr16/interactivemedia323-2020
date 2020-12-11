@@ -1,0 +1,27 @@
+body {
+	background-image: linear-gradient(to right, darkslateblue , indigo);
+} 
+
+
+#one {
+	margin-top: 70px;
+	margin-left: 80px;
+	font-size: 350%;
+	font-family: Gill Sans, sans-serif;
+	color: gainsboro; 
+	opacity: 80%;
+}
+
+#two {
+	margin-top: 400px;
+	margin-left: 500px;
+	font-size: 350%;
+	font-family: Gill Sans, sans-serif;
+	color: gainsboro;
+	opacity: 80%;
+} 
+
+a {
+	color: gainsboro;
+	opacity: 80%;
+}

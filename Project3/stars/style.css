@@ -1,0 +1,23 @@
+body {
+	background: darkslateblue;
+} 
+
+.call {
+	margin-left: 100px;
+	margin-top: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+}
+
+.name {
+	margin-left: 300px;
+	margin-top: 300px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 200%;
+	color: gainsboro;
+} 
+
+a {
+	color: gold;
+}

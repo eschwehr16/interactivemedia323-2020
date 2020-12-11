@@ -1,0 +1,17 @@
+body {
+	background: dimgrey;
+} 
+
+
+.towers {
+	margin-left: 60px;
+	margin-top: 500px;
+	font-size: 200%;
+	font-family: Gill Sans, sans-serif;
+	color: gainsboro;
+	opacity: 80%;
+} 
+
+a {
+	color: brown;
+}

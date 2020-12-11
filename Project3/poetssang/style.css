@@ -1,0 +1,33 @@
+body {
+	background: darkslateblue;
+} 
+
+
+.poets {
+	margin-top: 200px;
+	margin-left: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 100%;
+	color: gainsboro;
+
+}
+
+a {
+	margin-top: 250px;
+	margin-left: 100px;
+	font-family: Gill Sans, sans-serif;
+	font-size: 100%;
+	color: silver
+}
+
+.eyes {
+	margin-top: 300px;
+	margin-left: 120px;
+	font-family: Gill Sans, sans-serif; 
+	font-size: 100%;
+	color: gainsboro;
+}
+
+
+
+
